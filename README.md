@@ -1,7 +1,19 @@
 # 🚀 Welcome to My Profile
 
-Hi, I'm **David Okechukwu Kennedy-Dike**, a passionate **Student Developer** with a growing skill set in both front-end and back-end development. I enjoy bringing ideas to life through code, building clean interfaces, and solving practical problems with tech. My current journey revolves around mastering the web stack and becoming a versatile full-stack developer.
+Student Developer • Aspiring Full-Stack Engineer • Cybersecurity Enthusiast
 
+I'm David Okechukwu Kennedy-Dike, a curious and committed developer passionate about building solutions that are functional, efficient, and user-friendly.
+My journey cuts across both front-end and back-end development, and I’m steadily sharpening my skills in:
+
+HTML, CSS, JavaScript
+
+Node.js & Back-end fundamentals
+
+C, C++, Java & PHP
+
+I’m currently leveling up as a full-stack web developer, while also developing a strong foundation in cybersecurity—learning how to secure applications, understand vulnerabilities, and think like both a developer and a defender.
+
+I learn best by doing: mini-projects, open-source contributions, debugging with peers, and building tools that solve real problems.
 ---
 
 ## 💡 About Me
