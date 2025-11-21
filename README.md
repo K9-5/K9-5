@@ -18,7 +18,7 @@ I learn best by doing: mini-projects, open-source contributions, debugging with 
 
 ## 💡 About Me
 
-- 🔭 **Current Focus:** Strengthening my skills in **HTML**, **CSS**, **JavaScript**, and **C**, while diving deeper into **Node.js** and back-end basics.
+- 🔭 **Current Focus:** Strengthening my skills in **HTML**, **CSS**, **JavaScript**, and **C**, while diving deeper into **Node.js** and back-end basics.Exploring cybersecurity fundamentals.
 - 📘 **Learning:** Exploring the fundamentals of **C++**, **Java**, and **PHP** to broaden my understanding of different languages and paradigms.
 - 🤝 **Looking to Collaborate On:** Beginner-friendly open-source projects, learning-focused dev communities, and any project that helps sharpen my skills.
 - 🧩 **Fun Fact:** I love learning by doing—whether it's a mini project, a code challenge, or helping a peer debug.
