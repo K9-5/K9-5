@@ -1,51 +1,43 @@
-# 🚀 Welcome to My Profile
+# 👋 Hi, I'm David Kennedy-Dike
 
-Student Developer • Aspiring Full-Stack Engineer • Cybersecurity Enthusiast
-
-I'm David Okechukwu Kennedy-Dike, a curious and committed developer passionate about building solutions that are functional, efficient, and user-friendly.
-My journey cuts across both front-end and back-end development, and I’m steadily sharpening my skills in:
-
-HTML, CSS, JavaScript
-
-Node.js & Back-end fundamentals
-
-C, C++, Java & PHP
-
-I’m currently leveling up as a full-stack web developer, while also developing a strong foundation in cybersecurity—learning how to secure applications, understand vulnerabilities, and think like both a developer and a defender.
-
-I learn best by doing: mini-projects, open-source contributions, debugging with peers, and building tools that solve real problems.
----
-
-## 💡 About Me
-
-- 🔭 **Current Focus:** Strengthening my skills in **HTML**, **CSS**, **JavaScript**, and **C**, while diving deeper into **Node.js** and back-end basics.Exploring cybersecurity fundamentals.
-- 📘 **Learning:** Exploring the fundamentals of **C++**, **Java**, and **PHP** to broaden my understanding of different languages and paradigms.
-- 🤝 **Looking to Collaborate On:** Beginner-friendly open-source projects, learning-focused dev communities, and any project that helps sharpen my skills.
-- 🧩 **Fun Fact:** I love learning by doing—whether it's a mini project, a code challenge, or helping a peer debug.
+Full-Stack Developer | Cybersecurity Enthusiast | Building efficient and user-friendly web applications
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 💻 About Me
 
-### Front-End Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-
-### Back-End & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+- Design and develop **scalable, functional, and clean web solutions**  
+- Focused on **Full-Stack Development** and **Cybersecurity fundamentals**  
+- Learn best through **hands-on projects, debugging, and open-source contributions**
 
 ---
 
-## 📫 Let's Connect!
+## 🛠 Tech Stack
 
-Feel free to reach out, collaborate, or just say hi!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/david-kennedy-dike-a80b88311)
+**Front-End:**  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) HTML5  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) CSS3  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) JavaScript  
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge) React  
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge) Tailwind CSS  
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge) Vite  
+
+**Back-End & Databases:**  
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) Node.js  
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge) Express.js  
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) MongoDB  
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge) PostgreSQL  
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge) Git  
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge) VS Code  
+
+**Languages:**  
+- ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge) C  
+- ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge) C++  
+- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge) Java  
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge) PHP  
+
+---
+
+## 📫 Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/david-kennedy-dike-a80b88311)
