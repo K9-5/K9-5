@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Kennedy-Dike
 
-Full-Stack Developer | Cybersecurity Enthusiast | Building efficient and web applications
+Full-Stack Developer | Cybersecurity Enthusiast | Building efficient web applications
 
 ---
 
