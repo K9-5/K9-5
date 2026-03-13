@@ -1,13 +1,13 @@
 # 👋 Hi, I'm David Kennedy-Dike
 
-Full-Stack Developer | Cybersecurity Enthusiast | Building efficient and user-friendly web applications
+Full-Stack Developer | Cybersecurity Enthusiast | Building efficient and web applications
 
 ---
 
 ## 💻 About Me
 
 - Design and develop **scalable, functional, and clean web solutions**  
-- Focused on **Full-Stack Development** and **Cybersecurity fundamentals**  
+- Focused on **Full-Stack Development** and **Cybersecurity **  
 - Learn best through **hands-on projects, debugging, and open-source contributions**
 
 ---
